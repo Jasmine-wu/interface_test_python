@@ -1,6 +1,6 @@
 # 接口压测
 
-技术栈:python3+pytest+allure
+技术栈: python3+pytest+allure+jmeter
 
 依赖：
 pip install allure-pytest
