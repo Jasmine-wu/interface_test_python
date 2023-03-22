@@ -1,11 +1,7 @@
-**接口功能自动化测试程序（Python版）**
-运行环境：
-- python3
-- pytest
-- allure report
-- git
+**接口功能自动化测试）**
+技术栈:python3+pytest+allure
 
-依赖准备：
+依赖：
 pip install allure-pytest
 
 运行命令：
